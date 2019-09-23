@@ -1,3 +1,8 @@
+# Relief-Valve, upcoming steam games discovery page
+
+## Follow along the project board
+### https://trello.com/b/P2OqS9ZV/relief-valve
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
